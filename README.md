@@ -1,8 +1,10 @@
-# PyCel7
+# About
 This is a small python script to generate a basic .c7 file template, so you can quickly get a project going!  Cel7: https://rxi.itch.io/cel7
 
+---
 
-**Instructions**
+# **Instructions**
+
 Open script location in terminal, run the script, and choose a mode.
 Quick is recommended if you just want a window with some text.
 Advanced is for if you have a specific project in mind and want to pre-set configurations.
