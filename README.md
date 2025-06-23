@@ -1,5 +1,5 @@
 # About
-This is a small python script to generate a basic .c7 file template, so you can quickly get a project going!  Cel7: https://rxi.itch.io/cel7
+This is a small python script to generate a basic .c7 file template, so you can quickly get a project going!  Cel7: [https://rxi.itch.io/cel7]
 
 ---
 
@@ -20,3 +20,6 @@ FE Official Site:
 
 FE Guide:
 [https://fe-lang.org/docs/]
+
+What rxi recommends on his itch.io page (linked above):
+[https://github.com/rxi/fe/blob/master/doc/lang.md]
